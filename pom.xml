@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>in.ashokit</groupId>
-	<artifactId>Naresh-IT-App</artifactId>
+	<artifactId>61-Kafka-Client-App</artifactId>
 	<version>1.0-RELEASE</version>
-	<name>61-Kafka-Producer-App</name>
+	<name>Naresh-IT-App</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
