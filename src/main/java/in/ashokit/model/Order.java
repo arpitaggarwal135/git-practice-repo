@@ -7,6 +7,4 @@ public class Order {
 	private Integer orderId;
 	private String item;
 	private Double orderValue;
-	private int i;
-	private int j;
 }
