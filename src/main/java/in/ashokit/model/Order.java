@@ -8,5 +8,4 @@ public class Order {
 	private String item;
 	private Double orderValue;
 	private int i;
-	private int j;
 }
